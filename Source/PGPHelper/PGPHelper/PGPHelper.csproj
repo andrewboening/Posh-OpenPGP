@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="crypto">
-      <HintPath>..\..\..\..\bc-csharp\crypto\bin\Debug\crypto.dll</HintPath>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>..\..\..\..\..\Users\aboening\Downloads\BouncyCastle.Crypto.dll</HintPath>
     </Reference>
     <Reference Include="nunit.core">
       <HintPath>..\..\..\..\bc-csharp\crypto\bin\Debug\nunit.core.dll</HintPath>

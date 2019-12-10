@@ -1,0 +1,7 @@
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\bin\Release\PGPHelper.dll
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\bin\Release\PGPHelper.pdb
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\bin\Release\BouncyCastle.Crypto.dll
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\obj\Release\PGPHelper.csprojAssemblyReference.cache
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\obj\Release\PGPHelper.csproj.CopyComplete
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\obj\Release\PGPHelper.dll
+C:\Git\Posh-OpenPGP\Source\PGPHelper\PGPHelper\obj\Release\PGPHelper.pdb
